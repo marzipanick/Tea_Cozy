@@ -71,3 +71,43 @@ header img {
 .mission h4 {
   padding: 10px;
 }
+
+.totm {
+  display: flex;
+  position: relative;
+  top: 150px;
+  width: 1000px;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column nowrap;
+  margin: 20px 100px;
+}
+
+.totm img {
+  height: 200px;
+  width: 300px;
+  margin: 10px 15px;
+}
+
+.totm p {
+  margin-bottom: 10px;
+}
+
+.info h2 {
+  padding: 10px;
+}
+
+.info h4 {
+  padding: 10px;
+}
+
+.row1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-around;
+  width:
+}
